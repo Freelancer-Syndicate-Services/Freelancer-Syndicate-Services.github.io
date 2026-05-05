@@ -17,16 +17,9 @@
   avatar:
   rsi: https://robertsspaceindustries.com/en/citizens/Clearwood
 
-- name: Crew Member
+- name: 2mushcaffine
   rank: Senior Member
   role: Miner
-  specialty: Ore Mining & Refining
+  specialty: Chief Negotiator
   avatar:
-  rsi:
-
-- name: New Recruit
-  rank: Member
-  role: Hauler
-  specialty: Freight & Cargo Runs
-  avatar:
-  rsi:
+  rsi: https://robertsspaceindustries.com/en/citizens/OrianVortex
