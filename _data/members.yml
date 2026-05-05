@@ -19,7 +19,14 @@
 
 - name: 2mushcaffine
   rank: Senior Member
-  role: Miner
-  specialty: Chief Negotiator
+  role: Chief Negotiator
+  specialty: Shenanigans
   avatar:
   rsi: https://robertsspaceindustries.com/en/citizens/OrianVortex
+
+- name: Vexi_fy
+  rank: Senior Member
+  role: Community Manager
+  specialty: DJ
+  avatar:
+  rsi: https://robertsspaceindustries.com/en/citizens/vexi_fy
