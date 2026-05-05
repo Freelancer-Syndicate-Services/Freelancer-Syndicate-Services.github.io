@@ -23,11 +23,15 @@ Before heading out, spend 15–20 minutes in the tutorial missions. Key controls
 
 | Action | Default Key |
 |--------|-------------|
-| Exit seat | `Y` (hold) |
-| Open MobiGlas | `F1` |
-| Open inventory | `I` |
-| Quantum travel | `B` |
-| Request landing | `V` |
+| Exit seat | `y` (hold) |
+| Open MobiGlas | `f1` |
+| Open inventory | `i` |
+| Quantum travel | `b` |
+| Request landing | `Left ALT + n` |
+| Player interactions menu | `Left ALT + f` |
+| Third Person | `f4` |
+
+
 
 ## Step 3: Your First Ship
 
