@@ -4,7 +4,7 @@ category: in-game
 description: A complete guide to conducting piracy operations in Star Citizen — gear, ships, tactics, loot priority, and safe havens.
 author: TheDyingYak
 date: 2026-05-03
-featured: false
+featured: true
 published: true
 ---
 
