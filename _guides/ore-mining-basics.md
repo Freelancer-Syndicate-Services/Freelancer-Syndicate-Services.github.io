@@ -5,6 +5,7 @@ description: Learn how to find, crack, and refine ore for steady profit in Star 
 author: TheDyingYak
 date: 2026-05-03
 featured: true
+published: false
 ---
 
 ## The Mining Loop

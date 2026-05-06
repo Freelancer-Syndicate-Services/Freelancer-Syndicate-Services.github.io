@@ -5,6 +5,7 @@ description: The optimal loadout for maximizing profit on long cargo runs with t
 author: TheDyingYak
 date: 2026-05-03
 featured: false
+published: false
 ---
 
 ## Why the Freelancer MAX?
