@@ -4,7 +4,7 @@ category: in-game
 description: Learn how to find, crack, and refine ore for steady profit in Star Citizen's mining gameplay loop.
 author: TheDyingYak
 date: 2026-05-03
-featured: true
+featured: false
 published: false
 ---
 

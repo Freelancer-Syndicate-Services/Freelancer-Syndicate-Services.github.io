@@ -5,7 +5,6 @@ description: A complete guide to conducting piracy operations in Star Citizen â€
 author: TheDyingYak
 date: 2026-05-03
 featured: true
-published: true
 ---
 
 ## Introduction
